@@ -1,70 +1,34 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Peanut Pals
 
-## Available Scripts
+Welcome to Peanut Pals, your go-to destination for all things peanut-related! Whether you're passionate about protecting your red-headed loved ones, spy babies, or adorable kitty cats, we've got you covered. Explore our programs, hear from satisfied customers, and discover our range of products. Join Peanut Pals today and embark on a peanut adventure like no other!
 
-In the project directory, you can run:
+About Us
+At Peanut Pals, we're nuts about peanuts! Our journey started with a deep love for this humble legume and a mission to share our passion with the world. From protecting your loved ones to indulging your furry friends, Peanut Pals is here to cater to all your peanut needs.
 
-### `npm start`
+Programs
+Red-Head Protection
+Description: Shield your red-headed loved ones from the sun's harmful rays with our specialized protection program.
+Features:
+Specially formulated SPF peanut butter.
+Customizable sun hats designed for red-heads.
+Monthly newsletter with tips for sun safety.
+Spy-Baby Protection
+Description: Keep your little ones safe and stylish with our spy-baby protection program.
+Features:
+Discreet peanut-shaped baby monitors with state-of-the-art surveillance technology.
+Covert spy glasses for your baby's espionage missions.
+Quarterly training sessions on baby spy tactics.
+Kitty-Cat Protection
+Description: Spoil your furry feline friends with our kitty-cat protection program.
+Features:
+Gourmet peanut-flavored cat treats.
+Peanut-infused grooming products for a shiny coat.
+Access to exclusive catnip peanut toys.
+Testimonials
+See what our satisfied customers have to say about Peanut Pals:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+"Thanks to Peanut Pals, my red-headed daughter can enjoy the outdoors without worrying about sunburns!" - Sarah M.
+"I never knew keeping an eye on my baby could be so fun and easy! Peanut Pals' spy-baby program is a game-changer." - Mark R.
+"My kitty cat goes nuts for Peanut Pals' peanut-flavored treats! Definitely a must-have for all cat lovers." - Emily S.
+Join Peanut Pals today and experience the peanut revolution!
