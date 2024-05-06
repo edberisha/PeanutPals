@@ -7,6 +7,8 @@ import Title from "./Components/Title/Title"
 import About from './Components/About/About'
 import Product from './Components/Product/Product'
 import Testimonials from './Components/Testimonials/Testimonials'
+import ContactUs from './Components/Contact Us/ContactUs'
+import Footer from './Components/Footer/Footer'
 
 function App() {
   return (
@@ -21,7 +23,9 @@ function App() {
         <Product />
         <Title subTitle="Testimonials" Title="What Clients Say"/>
         <Testimonials/>
-
+        <Title subTitle="Contact Us" Title="Get in Touch"/>
+        <ContactUs/>
+        <Footer/>
       </div>
     </div>
   );
