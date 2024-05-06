@@ -15,20 +15,20 @@ const Testimonials = () => {
     let tx = 0
 
 
-const slideForward = (event)=>{
-    console.log("INITIAL TX", tx)
+const slideForward = ()=>{
     if(tx > -50){
         tx -= 25
     }
-    console.log("NEW TX", tx)
     slider.current.style.transform = `translateX(${tx}%)`
-    console.log("NEW NEW TX", tx)
 
 
 }
 
 const slideBackward = ()=>{
-    
+    if(tx<0){
+        tx += 25
+    }
+    slider.current.style.transform = `translateX(${tx}%)`
 }
 
 

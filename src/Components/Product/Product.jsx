@@ -1,9 +1,9 @@
 import React from 'react'
 import './Product.css'
-import product1 from "../../assets/img7.jpg"
-import product2 from "../../assets/img8.jpg"
-import product3 from "../../assets/img9.jpg"
-import product4 from "../../assets/img11.jpg"
+import product1 from "../../assets/tool1.png"
+import product2 from "../../assets/tool2.png"
+import product3 from "../../assets/tool3.png"
+import product4 from "../../assets/tool4.png"
 
 
 const Product = ()=>{

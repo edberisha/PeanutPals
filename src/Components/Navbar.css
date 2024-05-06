@@ -15,10 +15,58 @@ nav ul li{
     display: inline-block;
     list-style: none;
     margin: 5px 20px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .dark-nav{
     background:#0e144a;
     transition: 0.5s;
 }
+
+/* MEDIA QUERY */
+
+@media(max-width: 1000px){
+    .logo{
+        width:140px
+    }
+    nav ul li{
+        margin: 10px 15px
+    }
+
+}
+
+.fa-solid{
+    display:none
+}
+
+@media(max-width:920px){
+    nav{
+        padding: 15px 0;
+    }
+    nav ul{
+        position: fixed;
+        top: 0;
+        right: 0px;
+        background:#040b46;
+        z-index: -1;
+        width: 200px;
+        padding-top: 70px;
+        transition:0.5s;
+        bottom: 0
+    }
+
+    nav ul li{
+        display: block;
+        margin: 25px 40px;
+    }
+
+    .fa-solid{
+        display:block;
+        cursor: pointer;
+    }
+
+    .hide-mobile-menu{
+        right: -200px;
+    }
+}
+
