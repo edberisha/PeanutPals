@@ -9,8 +9,19 @@ import Product from './Components/Product/Product'
 import Testimonials from './Components/Testimonials/Testimonials'
 import ContactUs from './Components/Contact Us/ContactUs'
 import Footer from './Components/Footer/Footer'
+import ReactGA from 'react-ga';
+
+function initializeReactGA() {
+  ReactGA.initialize('G-JJ1QFNENSP'); // Replace with your Measurement ID
+  ReactGA.pageview(window.location.pathname + window.location.search);
+}
 
 function App() {
+  
+  useEffect(() => {
+    initializeReactGA();
+  }, []);
+
   return (
     <div>
       <Navbar />
